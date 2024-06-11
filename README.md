@@ -1,4 +1,8 @@
 ## Hi there 👋
+* I'm a physics graduate currently finishing my masters in astronomy.
+* I mostly use python for my day to day tasks, but I like a few other programming languages.
+* Currently learning Java.
+* Currently working on the programs that make up my thesis.
 
 <!--
 **D00C/D00C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
