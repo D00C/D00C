@@ -1,8 +1,10 @@
 ## Hi there 👋
-* I'm a physics graduate currently finishing my masters in astronomy.
+* I'm a physics graduate currently doing my PhD in astronomy.
 * I mostly use python for my day to day tasks, but I like a few other programming languages.
 * Currently learning Java.
-* Currently working on the programs that make up my thesis.
+* Currently working on the programs that make up my thesis. Which include but are not limited to:
+    * ML classifier training and testing suite to compare the performance of a great variety of classifiers, dimensionality reduction algorithms, sampling balancing and imputation methods.
+    * SED model adjustment through photometric data to place stars in the HR diagram.
 
 <!--
 **D00C/D00C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
